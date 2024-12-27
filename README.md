@@ -65,7 +65,7 @@ pytest --html=index.html
 ```
 
 ## LICENCE
-The application is under [The Unlicensed](./LICENCE).
+The application is under [GNU General Public License v3.0](./LICENCE).
 
 ## Notes from the developer
 Created with love, for python programming,
