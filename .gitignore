@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+tests/.pytest_cache/
+credit.code-workspace
