@@ -1,7 +1,7 @@
 # Credit
 A CS application the ensure that creditcards is valid. Using Luhn alogrithm.
 
-The application was implemented as an optional assignment at xCS50
+The application was implemented as a optional assignment at xCS50
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.<br>
 A demo of the application can be watched at [CS50 HomePage](https://cs50.harvard.edu/x/2024/psets/6/credit/)
 
