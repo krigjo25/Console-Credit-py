@@ -8,7 +8,14 @@ A demo of the application can be watched at [CS50 HomePage](https://cs50.harvard
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/krigjo25/console-adieu-py.git
+#  Using HTTPS
+git clone https://github.com/krigjo25/console-credit-py.git
+
+##  Using SSH
+ssh git@github.com:krigjo25/console-credit-py.git
+
+#  Using Github CLI
+gh repo clone console-credit-py.git
 ```
 
 2. Navigate to the project directory
